@@ -7,6 +7,6 @@ This repository contains the code for reproducing the simulations in our paper
 ICML 2023
 
 <p align="center">
-  <img src="ICML-logo.png" alt="ICML Logo" width="300"/>
+  <img src="ICML-logo.jpg" alt="ICML Logo" width="300"/>
 </p>
 
